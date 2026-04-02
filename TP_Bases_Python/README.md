@@ -1,5 +1,6 @@
 # Bio-informatique : Apprentissage et Algorithmes
 
- On utilise des flottants (float) pour la précisiondes mesures anthropométriques (poids,tailles).
+Bienvenue sur mon dépôt dédié à mon apprentissage de Python dans le projet de préparer mon entrée en Master de Bioinformatique.
 
- Le script respecte les règles opératoires.
+
+1) Nom du fichier : 
