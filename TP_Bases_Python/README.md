@@ -5,6 +5,6 @@ Bienvenue sur mon dépôt dédié à mon apprentissage de Python dans le projet 
 
 1) Nom du fichier : 01_calcul_imc_sante.py
 Objectif :  Calculer l'IMC d'un patient à partir d'un poids et d'une taille donné
-  Concept Python utilisés :
+ Python utilisés :
 - utilisation des modes opératoires
 - utilisation du type flottant (float) 
